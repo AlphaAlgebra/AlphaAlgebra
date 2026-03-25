@@ -1,5 +1,5 @@
-# Jasmine | Senior IoT Systems Architect 
-# Senior Systems Architect | IoT & Symbolic Computation
+# Jasmine | Computer Engineer
+#  Python Architect | IoT & Symbolic Computation
 
 > **Specialization:** Engineering formal algebraic verification for high-frequency IoT telemetry and real-time 3D spatial analytics.  
 > **Academic Foundation:** B.S. Data Analysis & Administration | Computer Science Matero Pro Scholar
