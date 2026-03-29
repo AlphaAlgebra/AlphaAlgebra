@@ -1,4 +1,4 @@
-# Jasmine | Building Ethical Enviormentr From the Bottom Up
+# Jasmine | Building Ethical Enviorments From the Bottom Up
 # Architect | IoT & Symbolic Computation
 
 > **Specialization:** Engineering formal algebraic verification for high-frequency IoT telemetry and real-time 3D spatial analytics.  
