@@ -8,7 +8,8 @@
 > **Specialization:** Engineering formal algebraic expressions for telemetry and real-time 3D spatial analytics.  
 > **Academic Foundation:** B.S. Data Analysis & Administration | AI Engineering Matero Pro Scholar
 
-<img width="697" height="731" alt="Jasmine Keebler Spaceface" src="https://github.com/user-attachments/assets/dc304a72-c9b5-4bda-9e71-f3485dd15e50" />
+![Spacea](https://github.com/user-attachments/assets/24f6908f-9545-47db-ba85-2822b58a48ee)
+
 
 ---
 
