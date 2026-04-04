@@ -1,7 +1,7 @@
 <p align="center">
  <img width="510" height="535" alt="Screenshot 2026-04-04 5 40 03 PM" src="https://github.com/user-attachments/assets/cca5d429-8c78-485f-9358-07ff2ba52d6a" />
  <br>
-  <sub><i>High-Fidelity Spatial Capture | Shot on Nikon D810 @ 1000mm</i></sub>
+  <sub><i>Jasmine Keebler Telephoto | Shot on Nikon D810 @ 1000mm</i></sub>
 </p>
 
 # Jasmine Keebler | Engineering Analysis & Development
