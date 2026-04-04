@@ -1,20 +1,22 @@
-# Jasmine | Building Ethical Enviorments From the Bottom Up
-# Architect | IoT & Symbolic Computation
+<p align="center">
+  <img src="https://github.com" width="250">
+</p>
 
-> **Specialization:** Engineering formal algebraic verification for high-frequency IoT telemetry and real-time 3D spatial analytics.  
-> **Academic Foundation:** B.S. Data Analysis & Administration | Computer Science Matero Pro Scholar
+# Jasmine | Building Ethical Environments From the Bottom Up
+# Junior Architect | AI Engineering / IoT & 3D Graphing
 
----![Space](https://github.com/user-attachments/assets/1aea984b-affc-4ab2-87d7-6e6b77b37918)
+> **Specialization:** Engineering formal algebraic expressions for telemetry and real-time 3D spatial analytics.  
+> **Academic Foundation:** B.S. Data Analysis & Administration | AI Engineering Matero Pro Scholar
 
+---
 
-###  Engineering Philosophy
-**I build massive, unbreakable data machines that are proven to work, then I make them look like the next best video game so everyone can understand the who, what, where, and how.**
+### Engineering Philosophy
+**I construct bulletproof data machines that are both visible and verified to function in order to address real-world problems so that everyone can comprehend the who, what, where, and how.**
 
 I achieve this through:
-*   **Formal Logic Verification:** Using math to ensure code is 100% correct before execution.
-*   **Deterministic Reproducibility:** Leveraging isolated vEnv sandboxing for consistent results across any environment.
-*   **Low-Latency Visualization:** Crafting high-speed 3D layers to make complex industrial data intuitive.
-
+*   **Formal Logic Validation:** 
+*   **Zero-Variance Logic:** 
+*   **Low-Latency Visualization:** 
 ---
 
 ###  Principal Infrastructure
