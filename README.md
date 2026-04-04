@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://github.com" width="250">
+ <img width="510" height="535" alt="Screenshot 2026-04-04 5 40 03 PM" src="https://github.com/user-attachments/assets/cca5d429-8c78-485f-9358-07ff2ba52d6a" />
 </p>
 
 # Jasmine | Building Ethical Environments From the Bottom Up
 # Junior Architect | AI Engineering / IoT & 3D Graphing
 
 > **Specialization:** Engineering formal algebraic expressions for telemetry and real-time 3D spatial analytics.  
-> **Academic Foundation:** B.S. Data Analysis & Administration | AI Engineering Matero Pro Scholar\
-
-<img width="510" height="535" alt="Screenshot 2026-04-04 5 40 03 PM" src="https://github.com/user-attachments/assets/cca5d429-8c78-485f-9358-07ff2ba52d6a" />
+> **Academic Foundation:** B.S. Data Analysis & Administration | AI Engineering Matero Pro Scholar
 
 
 ---
