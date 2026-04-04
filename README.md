@@ -4,7 +4,8 @@
 > **Specialization:** Engineering formal algebraic verification for high-frequency IoT telemetry and real-time 3D spatial analytics.  
 > **Academic Foundation:** B.S. Data Analysis & Administration | Computer Science Matero Pro Scholar
 
----
+---![Space](https://github.com/user-attachments/assets/1aea984b-affc-4ab2-87d7-6e6b77b37918)
+
 
 ###  Engineering Philosophy
 **I build massive, unbreakable data machines that are proven to work, then I make them look like the next best video game so everyone can understand the who, what, where, and how.**
