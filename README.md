@@ -7,8 +7,12 @@
 # Jasmine Keebler | Engineering Analysis & Development
 # Junior Architect | AI Engineering / IoT & 3D Graphing
 
-> **Specialization:** Engineering formal algebraic expressions for telemetry and real-time 3D spatial analytics.  
-> **Academic Foundation:** B.S. Data Analysis & Administration | AI Engineering Mastero Pro Scholarship
+> **Specialization:** Developing abstract algebraic expressions into real-time 3D spatial analytics and telemetry.
+>
+> **Academic Foundation:** 
+> * **B.S. Data Analysis & Administration** | AI Engineering Matero Pro Scholarship
+> * **A.A. Criminal Justice** | Foundation in Ethical Systems & Forensic Logic
+
 
 
 ---
