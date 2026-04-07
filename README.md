@@ -24,14 +24,8 @@
 *   **The Goal:** Validating the "Spiritual Bridge" theorem through high-fidelity mesh rendering and quantum fluctuation data points.
 *   🔗 **[Execute Live 3D Proof](https://alphaalgebra.github.io)**
 *   
-
-#### [AlphaAlgebra Core Engine](https://github.com)
-*   **What it is:** A high-performance symbolic math engine built for formal logic and automated reasoning.
-*   **How it works:** Leverages **SymPy** and **mpmath** for high-precision algebraic verification of transcendental functions.
-*   **Rigor:** Maintained with **10/10 Gold Standard** CI/CD pipelines via GitHub Actions for bulletproof code reliability.
 <img width="758" height="867" alt="Screenshot 2026-04-05 3 16 02 AM" src="https://github.com/user-attachments/assets/88f54e9f-09f9-483f-975b-b9c1fc4c525b" />
 <img width="758" height="701" alt="Screenshot 2026-04-05 3 11 37 AM" src="https://github.com/user-attachments/assets/8e69376c-6642-427f-87c1-bec6e9bb7516" />
-
 
 ### Tech Stack
 
