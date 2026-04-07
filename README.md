@@ -1,5 +1,6 @@
 <p align="center">
-<img width="848" height="680" alt="Screenshot 2026-04-06 11 12 30 PM" src="https://github.com/user-attachments/assets/585dedaa-ad17-42a2-97d1-9084beb5862e" />
+
+
 
 # Jasmine Keebler | Engineering Analysis & Development
 # Junior Architect | AI Engineering / IoT & 3D Graphing
