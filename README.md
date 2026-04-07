@@ -24,41 +24,13 @@
 *   **The Goal:** Validating the "Spiritual Bridge" theorem through high-fidelity mesh rendering and quantum fluctuation data points.
 *   🔗 **[Execute Live 3D Proof](https://alphaalgebra.github.io)**
 *   
-// 1. Setup Camera with a natural Field of View (FOV)
-const camera = new THREE.PerspectiveCamera(
-  45, // Lower FOV (35-45) feels more like a standard photo
-  window.innerWidth / window.innerHeight, 
-  0.1, 
-  1000
-);
-
-// 2. Position camera to see the full "Bridge" scale
-camera.position.set(10, 10, 20); // Adjust Z to fit your specific E = k(mc^2 + H) range
-camera.lookAt(0, 0, 0);
-
-// 3. The "Fit to Photo" Resize Logic
-function handleResize() {
-  const width = window.innerWidth;
-  const height = window.innerHeight;
-
-  // Update renderer size
-  renderer.setSize(width, height);
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2)); // Keeps lines crisp
-
-  // Update camera to prevent "squishing" the 3D math
-  camera.aspect = width / height;
-  camera.updateProjectionMatrix();
-}
-
-window.addEventListener('resize', handleResize);
-
-// 4. Initialization (Call once to set initial fit)
-handleResize();
 
 #### [AlphaAlgebra Core Engine](https://github.com)
 *   **What it is:** A high-performance symbolic math engine built for formal logic and automated reasoning.
 *   **How it works:** Leverages **SymPy** and **mpmath** for high-precision algebraic verification of transcendental functions.
 *   **Rigor:** Maintained with **10/10 Gold Standard** CI/CD pipelines via GitHub Actions for bulletproof code reliability.
+<img width="758" height="867" alt="Screenshot 2026-04-05 3 16 02 AM" src="https://github.com/user-attachments/assets/88f54e9f-09f9-483f-975b-b9c1fc4c525b" />
+<img width="758" height="701" alt="Screenshot 2026-04-05 3 11 37 AM" src="https://github.com/user-attachments/assets/8e69376c-6642-427f-87c1-bec6e9bb7516" />
 
 
 ### Tech Stack
