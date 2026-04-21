@@ -1,7 +1,7 @@
 <p align="center">
 # 👋 Hi, I'm Jasmine Keebler
 ### Engineering Analysis & Development | Junior Architect
-**🚀 Proactive Engineer & Go-Getter | Currently Open to New Opportunities**
+** Proactive Engineer & Go-Getter | Currently Open to New Opportunities**
 
 > **My Mission:** Contribute responsible methiods of coding like math to create fun 3D visuals that can tell a story benefiting users and real-time data systems.
 
@@ -39,7 +39,7 @@
 I am currently optimizing symbolic engines for **edge-case transcendental derivation** within isolated sandboxes. In my architecture, precision is the baseline; scalability is the objective.
 
 *   **🤝 Collaborations:** Formal Methods, IoT Scalability, Symbolic Mathematics.
-*   **📫 Connect with me:** [Link to your LinkedIn or Email]
+*   **📫 Connect with me:** [jrkeebler@liberty.edu]
 
 ---
 *Built with ❤️ by [alphaalgebra](https://github.com)*
