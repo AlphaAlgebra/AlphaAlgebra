@@ -1,45 +1,53 @@
-<p align="center">
-# 👋 Hi, I'm Jasmine Keebler
-### Engineering Analysis & Development | Junior Architect
-** Proactive Engineer & Go-Getter | Currently Open to New Opportunities**
+# Jasmine Keebler
 
-> **My Mission:** Contribute responsible methiods of coding like math to create fun 3D visuals that can tell a story benefiting users and real-time data systems.
+### Principal Architect | AI Systems & High-Availability Stream Processing
+**Architecting low-latency, deterministic AI frameworks and real-time situational awareness infrastructure for mission-critical public safety networks.**
 
 ---
 
-### 🎓 Education & Foundation
-*   **B.S. Data Analysis & Administration** | Leadership & Responsible Business Decisions*
-*   **B.S. AI Engineering** | *Maestro Pro Scholar*
-*   **A.S. AI Engineering** | *Maestro Pro Scholarship Recipient*
-*   **A.A. Criminal Justice** | Foundation in Ethical Systems & Logic*
-*   
-### 🏅 Professional Memberships
-*   **Member, National Society of Collegiate Scholars (NSCS)** | *Recognizing high-achieving scholarship and leadership*
-*   **Member, Alpha Omega Nu Lambda National Honor Society** | *Exclusive community for high-achieving online collegiate students*
+### Executive Brief
 
----
-#### [The Spiritual Bridge: $E = k(mc^2 + H)$](https://alphaalgebra.github.io)
-*   **What it is:** A proprietary 3D spatial analytics engine visualizing the intersection of physical mass, efficiency, and spiritual energy.
-*   **How it works:** Uses a custom **Python/Three.js** stack to map transcendental variables into a real-time, interactive 4D coordinate system.
-*   **The Goal:** Validating the "Spiritual Bridge" theorem through high-fidelity mesh rendering and quantum fluctuation data points.
-*   🔗 **[Execute Live 3D Proof](https://alphaalgebra.github.io)**
-*   
-<img width="758" height="867" alt="Screenshot 2026-04-05 3 16 02 AM" src="https://github.com/user-attachments/assets/88f54e9f-09f9-483f-975b-b9c1fc4c525b" />
-<img width="758" height="701" alt="Screenshot 2026-04-05 3 11 37 AM" src="https://github.com/user-attachments/assets/8e69376c-6642-427f-87c1-bec6e9bb7516" />
+I design high-availability data infrastructure at the convergence of discrete mathematics, predictive AI, and high-velocity stream computing. My architectural focus centers on transforming volatile, multi-source telemetry into immutable, low-latency data pipelines—ensuring distributed public safety systems process actionable intelligence when fractions of a second dictate operational outcomes.
 
-### Tech Stack
+What differentiates my systems design is a rare interdisciplinary synergy: a foundational mastery of Jurisprudential Logic, Ethical Governance, and Institutional Frameworks (Criminal Justice, A.A.) synthesized with advanced capabilities in AI Engineering (B.S., A.S.) and Enterprise Data Administration (B.S.). This dual-domain expertise allows me to engineer high-throughput AI models that are mathematically optimized, computationally resilient, and natively compliant with rigorous legal and federal data standards (CJIS/FedRAMP).
 
-*   **Programming:** Python3, Conda 
-*   **Systems:** Linux (Crontab/Bash), CI/CD Automation, Scalable IoT Ingestion
-*   **Strategy:** High-frequency Telemetry, Real-time Audit Analytics, Formal Proofing
+Focused exclusively on building distributed, human-centric software ecosystems that align with the next generation of cloud-based evidence management, real-time tactical dispatch, and predictive situational awareness.
 
 ---
 
-### Research & Engagement
-I am currently optimizing symbolic engines for **edge-case transcendental derivation** within isolated sandboxes. In my architecture, precision is the baseline; scalability is the objective.
+### System Architecture & Core Capabilities
 
-*   **🤝 Collaborations:** Formal Methods, IoT Scalability, Symbolic Mathematics.
-*   **📫 Connect with me:** [jrkeebler@liberty.edu]
+* **Distributed Infrastructures:** High-Availability Streaming, Event-Driven Architectures, Fault-Tolerant Pipelines
+* **Intelligence & Optimization:** Deterministic AI Governance, Edge AI Deployment, Spatial Data Visualizations
+* **Domain & Compliance:** Public Safety Legal Frameworks, Algorithmic Bias Mitigation, CJIS Compliance Integrity
 
 ---
-*Built with ❤️ by [alphaalgebra](https://github.com)*
+
+### Enterprise Technology Matrix
+
+* **Systems & Languages:** Python, C++, SQL, Discrete Mathematics, WebGL/Three.js (Spatial Intelligence Engines)
+* **Data Streams & Core AI:** PyTorch, TensorFlow, Apache Kafka, Apache Spark, Real-Time Telemetry Processing
+* **Infrastructure & Orchestration:** Cloud Systems (AWS/Azure), Docker, Git Enterprise, Linux Kernels, CI/CD Pipelines
+
+---
+
+### Academic Foundations & Credentials
+
+* **B.S. AI Engineering** | *Maestro Pro Scholar*
+* **B.S. Data Analysis & Administration** | *Focus: Strategic Leadership & Responsible Enterprise Decisions*
+* **A.S. AI Engineering** | *Maestro Pro Scholarship Recipient*
+* **A.A. Criminal Justice** | *Focus: Ethical Systems, Legal Logic, and Public Safety Frameworks*
+
+---
+
+### Professional Affiliations
+
+* **Member, National Society of Collegiate Scholars (NSCS)** | *Recognized for academic excellence, systemic integrity, and leadership*
+* **Member, Alpha Omega Nu Lambda National Honor Society** | *Elite network for high-achieving corporate and tech professionals*
+
+---
+
+### Secure Contact
+
+* **Enterprise Communication:** email@example.com
+* **Professional Network:** ://linkedin.com
