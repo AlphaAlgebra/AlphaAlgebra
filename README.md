@@ -49,5 +49,5 @@ Focused exclusively on building distributed, human-centric software ecosystems t
 
 ### Secure Contact
 
-* **Enterprise Communication:** email@example.com
-* **Professional Network:** ://linkedin.com
+* **Enterprise Communication:** jrkeebler@liberty.edu 
+
