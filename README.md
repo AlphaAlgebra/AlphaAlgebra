@@ -1,40 +1,43 @@
 # Jasmine Keebler
 
-### Principal Architect | AI Systems & High-Availability Stream Processing
-**Architecting low-latency, deterministic AI frameworks and real-time situational awareness infrastructure for mission-critical public safety networks.**
+### Python Backend Engineer | Distributed Systems & Data Infrastructure
+**Developing high-throughput backend services, concurrent event-driven architectures, and compliant data pipelines.**
 
 ---
 
-### Executive Brief
+### Technical Profile
 
-I design high-availability data infrastructure at the convergence of discrete mathematics, predictive AI, and high-velocity stream computing. My architectural focus centers on transforming volatile, multi-source telemetry into immutable, low-latency data pipelines—ensuring distributed public safety systems process actionable intelligence when fractions of a second dictate operational outcomes.
+I am a backend software engineer specializing in Python system architecture, concurrent programming, and distributed data pipelines. My engineering focus is on writing clean, scalable, and highly optimized code to process real-time, multi-source telemetry streams while ensuring complete system reliability under high data loads.
 
-What differentiates my systems design is a rare interdisciplinary synergy: a foundational mastery of Jurisprudential Logic, Ethical Governance, and Institutional Frameworks (Criminal Justice, A.A.) synthesized with advanced capabilities in AI Engineering (B.S., A.S.) and Enterprise Data Administration (B.S.). This dual-domain expertise allows me to engineer high-throughput AI models that are mathematically optimized, computationally resilient, and natively compliant with rigorous legal and federal data standards (CJIS/FedRAMP).
-
-Focused exclusively on building distributed, human-centric software ecosystems that align with the next generation of cloud-based evidence management, real-time tactical dispatch, and predictive situational awareness.
+**The Compliance Advantage:** My engineering workflow combines deep technical training in data systems and automated testing with a structural understanding of legal frameworks and governance. This dual-domain background allows me to design backend systems and machine learning pipelines that are computationally efficient, fault-tolerant, and architected from day one to meet strict federal security compliance standards (CJIS / FedRAMP).
 
 ---
 
-### System Architecture & Core Capabilities
+### Production Technology Matrix
 
-* **Distributed Infrastructures:** High-Availability Streaming, Event-Driven Architectures, Fault-Tolerant Pipelines
-* **Intelligence & Optimization:** Deterministic AI Governance, Edge AI Deployment, Spatial Data Visualizations
-* **Domain & Compliance:** Public Safety Legal Frameworks, Algorithmic Bias Mitigation, CJIS Compliance Integrity
-
----
-
-### Enterprise Technology Matrix
-
-* **Systems & Languages:** Python, C++, SQL, Discrete Mathematics, WebGL/Three.js (Spatial Intelligence Engines)
-* **Data Streams & Core AI:** PyTorch, TensorFlow, Apache Kafka, Apache Spark, Real-Time Telemetry Processing
-* **Infrastructure & Orchestration:** Cloud Systems (AWS/Azure), Docker, Git Enterprise, Linux Kernels, CI/CD Pipelines
+* **Core Languages:** Python (Core 3.10+, Asynchronous I/O, Multiprocessing), C++, SQL
+* **Data Streams & Architecture:** Apache Kafka, Message Queues, Event-Driven Microservices
+* **Databases & Caching:** PostgreSQL, Redis, Relational Database Design
+* **Data Science & Analytics:** PyTorch, NumPy, Pandas, Linear Algebra Computing
+* **Testing & Quality Assurance:** PyTest, Automated Unit Testing, Mocking, Code Linting
+* **DevOps & Infrastructure:** AWS (EC2, S3, RDS), Docker Containerization, Linux Systems, CI/CD
 
 ---
 
-### Academic Foundations & Credentials
+### Technical Competencies & Engineering Focus
+
+* **Asynchronous Backend Services:** Building scalable backend architectures utilizing Python's asyncio ecosystem to maximize I/O performance.
+* **Distributed Pipeline Design:** Structuring ingestion engines to process, clean, and store high-velocity telemetry data without message loss.
+* **Database Optimization:** Designing normalization schemas and tuning SQL indexing to ensure sub-millisecond database queries.
+* **Automated Test Coverage:** Writing comprehensive test suites using pytest to guarantee system stability through rapid deployment cycles.
+* **Secure Enterprise Operations:** Implementing strict role-based access controls, encryption protocols, and network isolation boundaries.
+
+---
+
+### Academic Credentials
 
 * **B.S. AI Engineering** | *Maestro Pro Scholar*
-* **B.S. Data Analysis & Administration** | *Focus: Strategic Leadership & Responsible Enterprise Decisions*
+* **B.S. Data Analysis & Administration** | *Focus: Strategic Enterprise Decision Making*
 * **A.S. AI Engineering** | *Maestro Pro Scholarship Recipient*
 * **A.A. Criminal Justice** | *Focus: Ethical Systems, Legal Logic, and Public Safety Frameworks*
 
@@ -42,12 +45,13 @@ Focused exclusively on building distributed, human-centric software ecosystems t
 
 ### Professional Affiliations
 
-* **Member, National Society of Collegiate Scholars (NSCS)** | *Recognized for academic excellence, systemic integrity, and leadership*
-* **Member, Alpha Omega Nu Lambda National Honor Society** | *Elite network for high-achieving corporate and tech professionals*
+* **Member, National Society of Collegiate Scholars (NSCS)** | *Recognized for academic excellence and leadership.*
+* **Member, Alpha Omega Nu Lambda National Honor Society** | *Professional network for high-achieving corporate and technology specialists.*
 
 ---
 
-### Secure Contact
+### Contact & Collaboration
 
-* **Enterprise Communication:** jrkeebler@liberty.edu 
+* **Enterprise Email:** jrkeebler@liberty.edu
+
 
