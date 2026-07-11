@@ -54,8 +54,11 @@ This repository serves as a production-grade showcase of foundational mathematic
 ## 📈 Engineering Analytics & Metrics
 
 <!-- Automated status metrics for validation and verification -->
-![AlphaAlgebra GitHub Stats](https://vercel.app)
-![Top Languages Used](https://vercel.app)
+## 📈 Engineering Analytics & Metrics
+
+[![GitHub Stats](https://shields.io)](https://github.com)
+[![Top Languages](https://shields.io)](https://github.com)
+
 
 ---
 
